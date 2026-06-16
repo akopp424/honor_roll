@@ -1,6 +1,6 @@
 #Name: Addison Kopp
 #File name: student_honor_roll.py
-#Description: This program accepts students names and GPAs and determines where the student qualifies for the Dean's List or the Honor Roll. 
+#Description: This program accepts students names and GPAs and determines whether the student qualifies for the Dean's List or the Honor Roll. 
 last_name = input("Enter the student's last name (ZZZ to quit):")
 
 while last_name != "ZZZ":
